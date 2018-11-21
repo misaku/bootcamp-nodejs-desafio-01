@@ -33,6 +33,4 @@ seus conhecimentos para oportunidades futuras :D*
 
 *“Sua única limitação é você mesmo”!*
 ## Agradecimento
-**@Rocketseat** 
-- [Github](https://github.com/Rocketseat)
-- [Site](https://rocketseat.com.br/)
+**@Rocketseat ( [Github](https://github.com/Rocketseat) | [Site](https://rocketseat.com.br/) )**
