@@ -1,0 +1,16 @@
+{
+  "name": "desafio1",
+  "version": "0",
+  "description": "desafio nivel 1 da rocketseat goNode",
+  "main": "index.js",
+  "repository": "https://github.com/misaku/desafio1.git",
+  "author": "Michel dos Santos Kuguio <michel.kuguio@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}
