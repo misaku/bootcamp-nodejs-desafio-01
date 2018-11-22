@@ -1,6 +1,6 @@
 # Desafio Rocketseat Bootcamp - GoNode Nível 1
 
-Esse git é para postar a solução desenvolvida por mim
+Esse git é para postar a solução desenvolvida por mim, como o proposito deste desafio é só verificar o conheimento e logica relacionado a tecnologia, não estarei preocupando com layout ou aparencia, e sim só completar as normas solicitadas pelo desafio.
 
 ## O Desafio :
 Configure uma aplicação utilizando **ExpressJS, Nunjucks, EditorConfig e ESLint.**
