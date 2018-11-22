@@ -1,16 +1,25 @@
 {
-  "name": "desafio1",
-  "version": "0",
-  "description": "desafio nivel 1 da rocketseat goNode",
-  "main": "index.js",
-  "repository": "https://github.com/misaku/desafio1.git",
-  "author": "Michel dos Santos Kuguio <michel.kuguio@gmail.com>",
-  "license": "MIT",
-  "private": false,
-  "dependencies": {
-    "express": "^4.16.4"
-  },
-  "devDependencies": {
-    "eslint": "^5.9.0"
-  }
+    "name": "desafio1",
+    "version": "0",
+    "description": "Desafio Rocketseat Bootcamp - GoNode Nível 1",
+    "main": "./src/index.js",
+    "repository": "https://github.com/misaku/desafio1.git",
+    "author": "Michel dos Santos Kuguio <michel.kuguio@gmail.com>",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+        "start": "nodemon index"
+    },
+    "dependencies": {
+        "express": "^4.16.4",
+        "nunjucks": "^3.1.4"
+    },
+    "devDependencies": {
+        "eslint": "^5.9.0",
+        "eslint-config-standard": "^12.0.0",
+        "eslint-plugin-import": "^2.14.0",
+        "eslint-plugin-node": "^8.0.0",
+        "eslint-plugin-promise": "^4.0.1",
+        "eslint-plugin-standard": "^4.0.0"
+    }
 }
